@@ -52,7 +52,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/9d8wWcJLnFI?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": ""
             },
             "bgVideoRadio": false,
             "overlay": true,
@@ -65,7 +65,7 @@
           },
           "title": "AZAFORCE",
           "text": "AzaForce est une communauté multi-gaming française basée en France (la logique), pour le moment spécialisée dans le jeu Loups Garous En Ligne essayant simultanément de se spécialisée dans d'autres jeux.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-discord mbr-iconfont mbr-iconfont-btn\"></span>REJOIGNEZ-NOUS SUR DISCORD</a>  "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://discord.gg/jQjU6hG\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-discord mbr-iconfont mbr-iconfont-btn\"></span>REJOIGNEZ-NOUS SUR DISCORD</a>  "
         },
         {
           "_styles": {
@@ -92,6 +92,11 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "features3-f",
           "_params": {
             "paddingTop": 2,
@@ -202,12 +207,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "testimonials2",
@@ -306,6 +306,9 @@
             "count": "6",
             "paddingTop": 3,
             "paddingBottom": 3,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
@@ -315,10 +318,7 @@
             "overlayOpacity": 0.2,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": true,
-            "showBio": false
+            "showSubtitle": false
           },
           "title": "LES GRADES DU SERVEUR",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
@@ -372,7 +372,7 @@
           },
           "title": "DONATION",
           "text": "Vous pouvez toujours nous faire un don pour améliorer notre communauté &amp; donc créer un forum! Cela nous ferait extrêment plaisir !<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Faire un don</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"paypal.me/azaforce/1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Faire un don</a>"
         },
         {
           "_inherit": "menu",
@@ -463,7 +463,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AZAFORCE ~ Communauté Francophone Multi-Gaming</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"><p>ACCUEIL</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">STAFF</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">GRADES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">DONATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-discord mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-0\"><p>ACCUEIL</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-f\">STAFF</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials4-g\">GRADES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-c\">DONATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-8\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-discord mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
         },
         {
           "_tags": [
