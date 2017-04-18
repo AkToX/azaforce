@@ -245,7 +245,7 @@
               "authorBio": "User"
             },
             {
-              "text": "Les larbins des opérateurs des plus puissants.",
+              "text": "Les larbins des plus puissants.",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -287,7 +287,7 @@
               "authorBio": "Developer"
             },
             {
-              "text": "Et bien sur les plus importants, sans eux le serveur ne servirait à rien.",
+              "text": "Et bien sûr les plus importants, sans eux le serveur ne servirait à rien.",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
