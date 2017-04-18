@@ -372,7 +372,7 @@
           },
           "title": "DONATION",
           "text": "Vous pouvez toujours nous faire un don pour améliorer notre communauté &amp; donc créer un forum! Cela nous ferait extrêment plaisir !<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"paypal.me/azaforce/1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Faire un don</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.paypal.me/azaforce/1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Faire un don</a>"
         },
         {
           "_inherit": "menu",
