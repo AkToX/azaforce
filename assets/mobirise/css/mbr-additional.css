@@ -415,6 +415,12 @@ h6,
 #header3-d .mbr-section-subtitle {
   text-align: center;
 }
+#testimonials4-g .card-footer > div {
+  color: #cccccc;
+}
+#testimonials4-g .mbr-section-title {
+  color: #b8312f;
+}
 #ext_menu-1 .hide-buttons .nav-btn {
   display: none !important;
 }

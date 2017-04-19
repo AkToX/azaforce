@@ -46,7 +46,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aza-banner-2-2000x1125.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/sign-radiation-circle-symbol-11164-1920x1080-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -314,17 +314,25 @@
             "showBio": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/test-banner-2000x1125.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0",
             "overlayColor": "#222",
             "showTitle": true,
             "showSubtitle": false
           },
           "title": "LES GRADES DU SERVEUR",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "_styles": {
+            ".card-footer > div": {
+              "color": "#cccccc"
+            },
+            ".mbr-section-title": {
+              "color": "#b8312f"
+            }
+          }
         },
         {
           "_tags": [
