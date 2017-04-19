@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 17,
+    "uniqCompNum": 19,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -46,7 +46,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aza-banner-2-2000x1125.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -56,7 +56,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -81,7 +81,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#707070",
             "showMeta": true
           },
           "title": "Qui sommes-nous ?",
@@ -92,19 +92,14 @@
             "Theme"
           ],
           "_name": "features3",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "features3-f",
+          "_anchor": "features3-i",
           "_params": {
             "paddingTop": 2,
-            "paddingBottom": "2",
+            "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aza%20force%20banner-2000x1500.png",
-            "bgColor": "#efefef",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#c1c1c1",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -113,16 +108,16 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
+            "columns": "6",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-aktox-600x564.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -132,10 +127,10 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Antoine ~AkToX~",
-          "subtitle1": "Fondateur &amp; Développeur",
-          "caption1": "<p>Fondateur d'AzaForce et développeur du site.</p><p>15 ans. Nantes</p>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title1": "Antoine \"AkToX\"",
+          "subtitle1": "Fondateur &amp; développeur",
+          "caption1": "Fondateur d'AzaForce et développeur du site web ainsi que du discord.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">15 ans, Nantes</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/sans-titre-600x606.jpg",
@@ -148,10 +143,10 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Vincent ~H1eros~",
+          "title2": "Vincent \"H1eros\"",
           "subtitle2": "Administrateur",
-          "caption2": "Gérant du staff et du reste de la communauté d'AzaForce.<br><br>18 ans. Challans",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption2": "Gérant du staff et du reste de la communauté d'AzaForce.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">18 ans, Challans</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/dzq-600x648.png",
@@ -164,10 +159,10 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Sarah ~JINX~",
-          "subtitle3": "Modératrice",
-          "caption3": "Gérante de la communauté d'AzaForce.<br><br>15 ans. Toulouse",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title3": "Sarah \"JINX\"",
+          "subtitle3": "Modératrice &amp; médiatrice",
+          "caption3": "Gérante de la communauté et médiatrice entre le staff et la communauté.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">15 ans, Toulouse</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/jpeg-20170415-600x600.jpg",
@@ -180,34 +175,42 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Brayan ~Brayoo~",
+          "title4": "Brayan \"Brayoo\"",
           "subtitle4": "Modérateur",
-          "caption4": "Gérant de la communauté d'AzaForce.<br><br>17 ans. Le Mans&nbsp;",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption4": "Gérant de la communauté.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">17 ans, Le mans</a>",
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/aaaaaaaa-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title5": "Pauline \"Nowea\"",
+          "subtitle5": "Modératrice",
+          "caption5": "Gérante de la communauté.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">16 ans, Reims</a>",
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/anime-girl-hair-blue-gesture-silence-jeans-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "title6": "Maurane &nbsp;\"Mayu\"",
+          "subtitle6": "Modératrice",
+          "caption6": "Gérante de la communauté.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">18 ans, Strasbourg</a>"
         },
         {
           "_inherit": "testimonials2",
@@ -311,11 +314,11 @@
             "showBio": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.2,
+            "overlayOpacity": "0.7",
             "overlayColor": "#222",
             "showTitle": true,
             "showSubtitle": false
