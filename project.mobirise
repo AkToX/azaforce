@@ -22,8 +22,11 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 20,
-    "versionPublish": "3.12.1"
+    "uniqCompNum": 29,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/logooooooo-128x128-1.png",
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -64,7 +67,7 @@
             "showButtons": true
           },
           "title": "AZAFORCE",
-          "text": "AzaForce est une communauté multi-gaming française basée en France, pour le moment spécialisée dans le jeu Loups Garous En Ligne essayant simultanément de se spécialisée dans d'autres jeux.",
+          "text": "AzaForce est une communauté multi-gaming française, pour le moment spécialisée dans le jeu Loups-Garous En Ligne essayant simultanément de se spécialiser dans d'autres jeux.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://discord.gg/jQjU6hG\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-discord mbr-iconfont mbr-iconfont-btn\"></span>REJOIGNEZ-NOUS SUR DISCORD</a>  "
         },
         {
@@ -81,7 +84,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#707070",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "Qui sommes-nous ?",
@@ -160,8 +163,8 @@
             }
           },
           "title3": "Sarah \"JINX\"",
-          "subtitle3": "Modératrice &amp; médiatrice",
-          "caption3": "Gérante de la communauté et médiatrice entre le staff et la communauté.",
+          "subtitle3": "Modératrice",
+          "caption3": "Gérante de la communauté.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">15 ans, Toulouse</a>",
           "media4": {
             "image": {
@@ -220,7 +223,7 @@
           "_name": "testimonials4",
           "_styles": {
             ".card-footer > div": {
-              "color": "#cccccc"
+              "color": "#3d3c3c"
             },
             ".mbr-section-title": {
               "color": "#b8312f"
@@ -322,7 +325,7 @@
             "showBio": false,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/test-banner-2000x1125.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/sans-titre-2000x1580.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -525,7 +528,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AZAFORCE ~ Communauté Francophone Multi-Gaming</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-0\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AZAFORCE ~ Communauté Francophone Multi-Gaming</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-0\"><p>ACCUEIL</p></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-i\">STAFF</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials4-g\">GRADES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-c\">DONATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-j\">DISCORD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-8\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"><span class=\"socicon socicon-discord mbr-iconfont mbr-iconfont-btn\"></span></a></li>"
         },
         {
