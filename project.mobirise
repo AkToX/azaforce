@@ -226,7 +226,7 @@
               "color": "#3d3c3c"
             },
             ".mbr-section-title": {
-              "color": "#b8312f"
+              "color": "#475577"
             }
           },
           "testimonial": [
@@ -323,11 +323,11 @@
             "showImages": false,
             "showName": true,
             "showBio": false,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/sans-titre-2000x1580.png",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/sans%20titre-2000x1580.png",
+            "bgColor": "#969696",
+            "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": "0",
             "overlayColor": "#222",
